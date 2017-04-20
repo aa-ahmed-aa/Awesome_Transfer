@@ -8,9 +8,7 @@ you can check those filters here<br>
 ![alt text](https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/original.jpg "Filter 0")
 <br>
 ### here is some of filtered images
-<img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="200" height="200">
-<img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/1.jpg" width="200" height="200">
-<img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/2.jpg" width="200" height="200">
+<img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="200" height="200"> <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/1.jpg" width="200" height="200"> <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/2.jpg" width="200" height="200">
 <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/3.jpg" width="200" height="200">
 <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/4.jpg" width="200" height="200">
 <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/5.jpg" width="200" height="200">
