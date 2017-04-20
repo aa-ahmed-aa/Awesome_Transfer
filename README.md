@@ -28,7 +28,7 @@ to install the app go to the installer folder and run the installer then go to y
 for the build you gona need 'cx_Freeze' 
 ### Source code
 `gui.py` <br>
-is the file that contain the source that will call the api after you upload your images
+is the file that contain the source that will call the api after you upload your images <br>
 `tt.py` <br>
 is the file that builds the MSI installer customize it as you need <br>
 run `python tt.py bdist_msi` to get the installer
