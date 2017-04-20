@@ -8,13 +8,13 @@ you can check those filters here<br>
 ![alt text](https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/original.jpg "Filter 0")
 <br>
 
-| Filter Name        | Style image|
-| ------------- | -----:|
-| alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="200" height="200"> |
-| aqua 					 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/1.jpg" width="200" height="200"> |
-| blue_brush 			 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/2.jpg" width="200" height="200"> |
-| blue_granite 			 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/3.jpg" width="200" height="200"> |
-| bright_sand 			 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/4.jpg" width="200" height="200"> |
+| Filter Name        | Style image|  | Filter Name        | Style image| 
+| ------------- | -----:|  | ------------- | -----:|
+| alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="200" height="200"> | | alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/5.jpg" width="200" height="200"> |
+| aqua 					 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/1.jpg" width="200" height="200"> | | alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/6.jpg" width="200" height="200"> |
+| blue_brush 			 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/2.jpg" width="200" height="200"> | | alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/7.jpg" width="200" height="200"> |
+| blue_granite 			 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/3.jpg" width="200" height="200"> | | alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/8.jpg" width="200" height="200"> |
+| bright_sand 			 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/4.jpg" width="200" height="200"> | | alien_goggles 		 | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/9.jpg" width="200" height="200"> |
 | cinnamon_rolls 		 | ![alt text](https:// "Filter 0") |
 | clean_view 			 | ![alt text](https:// "Filter 0") |
 | colorful_blocks 		 | ![alt text](https:// "Filter 0") |
