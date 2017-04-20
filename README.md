@@ -10,7 +10,7 @@ you can check those filters here<br>
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| col 3 is      | right-aligned | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="48" height="48"> |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
