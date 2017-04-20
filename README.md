@@ -3,12 +3,13 @@ Desktop Application for making fast&Awesome style-transfer
 
 # Filters
 there is 37 style you can use on your images in the app they are named filters from 0 to 36 (37 filter LOL)
-you can check those filters here
-Original Image
+you can check those filters here<br>
+### Original Image 
 ![alt text](https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/original.jpg "Filter 0")
+<br>
 | Filter name            | Style Example	  										   |
 | ---------------------- |:-----------------------------------------------------------:|
-| alien_goggles 		 | ![alt text](https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg "Filter 0") |
+| alien_goggles 		 | ![alt text](./images/0.jpg =100x100 "Filter 0") |
 | aqua 					 | ![alt text](https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/1.jpg "Filter 1") |
 | blue_brush 			 | ![alt text](https:// "Filter 0") |
 | blue_granite 			 | ![alt text](https:// "Filter 0") |
@@ -51,11 +52,11 @@ to install the app go to the installer folder and run the installer go to your d
 
 # DevelopeMe
 ### Required pacages
-'Algorithmia','PyQt4'
-for the build youo gona need 'cx_Freeze' 
+' Algorithmia ' , ' PyQt4 ' <br>
+for the build you gona need 'cx_Freeze' 
 ### Source code
-'gui.py'
+' gui.py ' <br>
 is the file that contain the source that will call the api after you upload your images
-'tt.py'
+' tt.py ' <br>
 is the file that builds the MSI installer customize it as you need <br>
-run 'python tt.py bdist_msi' to get the installer
+run ' python tt.py bdist_msi ' to get the installer
