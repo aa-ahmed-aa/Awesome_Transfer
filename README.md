@@ -8,11 +8,11 @@ you can check those filters here<br>
 ![alt text](https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/original.jpg "Filter 0")
 <br>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="48" height="48"> |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Cool  |
+| ------------- | -----:|
+| col 3 is      | <img src="https://github.com/aa-ahmed-aa/Awesome_Transfer/blob/master/images/0.jpg" width="100" height="100"> |
+| col 2 is      |   $12 |
+| zebra stripes |    $1 |
 
 # Install
 to install the app go to the installer folder and run the installer go to your desktop and run the shortcut name Awesome Style
