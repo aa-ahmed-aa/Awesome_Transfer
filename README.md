@@ -9,6 +9,7 @@ you can check those filters here<br>
 <br>
 ahmed | test | test
 test | this | test
+ttt | ttt | ttt
 
 # Install
 to install the app go to the installer folder and run the installer go to your desktop and run the shortcut name Awesome Style
